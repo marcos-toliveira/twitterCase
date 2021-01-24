@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.marcoscdo.case.twitter
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, asciidoctor, assertj, data, data-jpa, dekorate-kubernetes, dekorate-prometheus, elasticsearch, github-workflow-google-cloud-run-graalvm, github-workflow-graal-docker-registry, graalvm, gradle, h2, hibernate-jpa, hibernate-validator, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, management, micrometer, micrometer-elastic, micrometer-prometheus, mockito, netty-server, properties, readme, security, security-annotations, security-oauth2, security-session, shade, spring, spring-boot, spring-data-jpa, spring-web, testcontainers, views-thymeleaf]
